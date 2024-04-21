@@ -13,12 +13,6 @@ O objetivo deste projeto é demonstrar como o Machine Learning pode ser aplicado
 - Scikit-Learn para modelagem de machine learning
 - Matplotlib e Seaborn para visualização de dados
 
-## Estrutura do Repositório
-
-- `notebooks/`: Contém os Jupyter Notebooks com todo o código e análise.
-- `data/`: Diretório que armazena os conjuntos de dados utilizados no projeto.
-- `src/`: Código fonte para funções customizadas usadas nos notebooks.
-
 ## Contato
 
 - Nome: Lucas Knust
