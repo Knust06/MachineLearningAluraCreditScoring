@@ -19,12 +19,6 @@ O objetivo deste projeto é demonstrar como o Machine Learning pode ser aplicado
 - `data/`: Diretório que armazena os conjuntos de dados utilizados no projeto.
 - `src/`: Código fonte para funções customizadas usadas nos notebooks.
 
-## Como Usar
-
-1. Clone este repositório.
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   
 ## Contato
 
 - Nome: Lucas Knust
